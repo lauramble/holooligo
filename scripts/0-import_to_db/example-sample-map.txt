@@ -1,0 +1,9 @@
+MSxLW-FR17MAG201003217	/genphyse/genepi/Juliette/Seq_Genome/GVCF_genome/FR17MAG201003217.rmdup.realn.bam.jobs.gvcf.gz
+CRxLW-FR17MAG201313975	/genphyse/genepi/Juliette/Seq_Genome/GVCF_genome/FR17MAG201313975.rmdup.realn.bam.jobs.gvcf.gz
+MSxLW-FR18GAL200900504	/genphyse/genepi/Juliette/Seq_Genome/GVCF_genome/FR18GAL200900504.rmdup.realn.bam.gvcf
+CR-FR971DU200903475	/genphyse/genepi/Juliette/Seq_Genome/GVCF_genome/FR971DU200903475.rmdup.realn.bam.gvcf
+CR-FR971DU200903481	/genphyse/genepi/Juliette/Seq_Genome/GVCF_genome/FR971DU200903481.rmdup.realn.bam.gvcf
+CR-FR971DU200903515	/genphyse/genepi/Juliette/Seq_Genome/GVCF_genome/FR971DU200903515.rmdup.realn.bam.gvcf
+CR-FR971DU200903516	/genphyse/genepi/Juliette/Seq_Genome/GVCF_genome/FR971DU200903516.rmdup.realn.bam.jobs.gvcf.gz
+CR-FR971DU201003590	/genphyse/genepi/Juliette/Seq_Genome/GVCF_genome/FR971DU201003590.rmdup.realn.bam.gvcf
+CR-FR97DU201331697	/genphyse/genepi/Juliette/Seq_Genome/GVCF_genome/FR97DU201331697.rmdup.realn.bam.jobs.gvcf.gz
